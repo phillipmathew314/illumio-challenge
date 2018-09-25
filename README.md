@@ -1,6 +1,4 @@
-# illumio-challenge
-Illumio Coding Challenge
-
+# Illumio Coding Challenge
 
 # Outside Sources
 csv Module Documentation: https://docs.python.org/3/library/csv.html
